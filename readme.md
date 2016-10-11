@@ -2,10 +2,10 @@
 
 This is a small script to mimic the funtionality of [OD](www.thegeekstuff.com/2012/08/od-command/)  (octal dump command in Linux) in windows.
 
-For a full story [click here] (www.sukhbinder.wordpress.com)
+For a full story [click here] (https://sukhbinder.wordpress.com/?p=3495)
 
 
-![image](https://sukhbinder.files.wordpress.com/2016/09/091816_1119_usingaliase3.png) 
+![image](https://sukhbinder.files.wordpress.com/2016/10/101116_1754_odcommandin4.png) 
 
 
 
