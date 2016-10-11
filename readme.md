@@ -1,11 +1,11 @@
 #OD - Octul Dump for Windows
 
-This is a small script to mimic the fucntionality of OD (octal dump command in Linux) in windows.De248bj2017
+This is a small script to mimic the fucntionality of [OD](www.thegeekstuff.com/2012/08/od-command/)  (octal dump command in Linux) in windows.
 
-For a full story click here
+For a full story [click here] (www.sukhbinder.wordpress.com)
 
 
-image
+![image](https://sukhbinder.files.wordpress.com/2016/09/091816_1119_usingaliase3.png) 
 
 
 
